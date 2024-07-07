@@ -36,6 +36,7 @@ This simple HTML and JavaScript project allows users to change the background co
 
 ## Preview
 
-![Preview](preview.png) 
+![Preview Red](preview-red.png) ![Preview Blue](preview-blue.png) ![Preview Green](preview-green.png) ![Preview Reset](preview-reset.png)
+
 
 
